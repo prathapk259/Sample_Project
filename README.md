@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # kubernetes-configmap-reload
 
 Pre-requisites:
@@ -51,3 +52,7 @@ Now we can cleanup by using below commands:
     kubectl delete svc kubernetes-configmap-reload
 # springboot_k8s_application
 # mrdevops_java_app
+=======
+# Sample_Project
+Sample_Project
+>>>>>>> 9ea352ff44dfbac85131573b13098485a1266f60
